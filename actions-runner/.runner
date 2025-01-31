@@ -1,0 +1,9 @@
+﻿{
+  "agentId": 2,
+  "agentName": "DESKTOP-J111HJM",
+  "poolId": 1,
+  "poolName": "Default",
+  "serverUrl": "https://pipelinesghubeus13.actions.githubusercontent.com/WNQ04EYywFXIdJw6XbeCXW2l7ZWoM0xQgvEfODUEabt5lm9f3n/",
+  "gitHubUrl": "https://github.com/yoohyelin/pracicd",
+  "workFolder": "_work"
+}
