@@ -1,12 +1,5 @@
-<<<<<<< HEAD
 FROM openjdk:21-jdk-slim
 WORKDIR /app
 COPY target/SpringGitExample.jar /app/SpringGitExample.jar
 EXPOSE 8080
-=======
-FROM openjdk:21-jdk-slim
-WORKDIR /app
-COPY target/SpringGitExample.jar /app/SpringGitExample.jar
-EXPOSE 8080
->>>>>>> 083a8a33c9047444e78554933403ff17ad404e0d
 ENTRYPOINT ["java", "-jar", "/app/SpringGitExample.jar"]
